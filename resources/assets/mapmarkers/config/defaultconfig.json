@@ -1,0 +1,17 @@
+{
+	"waypoints": [
+		{
+			"Title": "test",
+			"Icon": "circle",
+			"Color": "#FFFFFFFF",
+			"Pinned": false,
+			"Coverage": 16.0,
+			"Blocks": [
+				"rock-*"
+			],
+			"Entities": [
+
+			]
+		}
+	]
+}
